@@ -28,7 +28,7 @@ function Benefit(params) {
                 <i className="far fa-money-bill-alt"></i>
               </div>
               <div className="benefit_content">
-                <h6>cach on delivery</h6>
+                <h6>cash on delivery</h6>
                 <p>The Internet Tend To Repeat</p>
               </div>
             </div>
@@ -50,7 +50,7 @@ function Benefit(params) {
                 <i className="far fa-clock"></i>
               </div>
               <div className="benefit_content">
-                <h6>opening all week</h6>
+                <h6>open all week</h6>
                 <p>8AM - 09PM</p>
               </div>
             </div>
